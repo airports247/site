@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://airports-247.com/sitemap.xml
