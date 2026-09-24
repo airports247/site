@@ -16,6 +16,8 @@ Static HTML. No build step, no generator, no JavaScript, no dependencies.
 | `privacy.html` | Privacy policy. Carries the YouTube API Services disclosures. |
 | `terms.html` | Terms of service. Links the YouTube ToS and states users are bound by it. |
 | `style.css` | The only stylesheet. |
+| `robots.txt` | Allows every crawler and points at the sitemap. Added 23 Sep 2026 after Search Console reported pages "Blocked by robots.txt" while the site had no robots.txt at all. |
+| `sitemap.xml` | The three pages. Add a line here when a page is added. |
 | `CNAME` | Custom domain for GitHub Pages. Do not delete — Pages rewrites it from repo settings. |
 
 ## Before first publish
